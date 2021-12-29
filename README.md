@@ -44,7 +44,7 @@ Used the online reatil trasnational dataset to build a RFM clustering and choose
 * for checking the tendency of clusters used Hopkins Stat function
 * applied K Means algorithm
 * evaluate the model with Silhouette Analysis 
-![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmean.png)
+![Kmeans clusters image](kmean.png)
 
 ![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmeans_boxplot.png)
 
