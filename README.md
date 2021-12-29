@@ -31,3 +31,25 @@ In this project i applied **XGBOOST** boosting algorithm to solve this interesti
 * Optimized XGBoost classifier using GridSearchCV to reach the best model.
 * Evaluated the model with classification report ,confusion matrix ,roc_auc_score and roc_curve. 
 * Tried to figure out the most important features. 
+
+
+# [Project 3: Build a RFM clustering and choose the best set of customers for online retail shop].
+## Project Overview
+
+Online retail is a transnational data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.
+
+Used the online reatil trasnational dataset to build a RFM clustering and choose the best set of customers.
+* Explored the data and preprocessed the data.
+* Used Boxplot to find out the outlier
+* for checking the tendency of clusters used Hopkins Stat function
+* applied K Means algorithm
+* evaluate the model with Silhouette Analysis 
+![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmean.png)
+![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmeans_boxplot.png)
+
+
+
+
+
+
+
