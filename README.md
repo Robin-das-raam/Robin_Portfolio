@@ -49,8 +49,49 @@ Used the online reatil trasnational dataset to build a RFM clustering and choose
 ![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmeans_boxplot.png)
 
 
+# [Project 4: Workout estimation and reps Counting.](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Workout%20estimation%20and%20reps%20Counter)
+## Project Overview:
+### The goal of this project is to track various gym workout position and count the reputation of perfectly done exercise. If the exercise not done properly then it will be not counted..
+
+* This project is based on Python and OpenCV
+* created a PoseDetector Module using MediaPipe
+* PoseDetector module can find pose and draw line on pose landmarks
+* PoseDetector module has a function to calculate the angle between defined pose landmarks
+* each kind of exercise have a predefined angle between pose landmarks for counting as perfect reputation 
 
 
+# [Project 5: Virtual Painter](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Virtual%20Painter)
+
+## Project Overview:
+In this project build an application for drawing on screen using real time video using python and OpenCV.
+* created a HandTracking module using mediapipe
+* Handtracking module can track the hand and get the position of fingers
+* draw landmarks 
+* used two fingers to select the color and eraser
+* used one fingers to draw on screen 
+
+# [Project 6: Anomaly Detection in Time Series Data.](https://github.com/Robin-das-raam/Time-Series-Analysis-/blob/main/Anomaly%20Detection%20in%20Time%20Series.ipynb)
+
+## Project Overview
+The goal of this project is to detect anomaly in time Series data.In this project i used Catfish Sales dataset which provides the sales from 1996 to 2000.
+* Explored the data to find out the pattern and seasonality
+* Created artificial anomaly data and add them into original dataset.
+* Preprocessed the data to remove the trend by first differencing
+* Created a baseline model with **SARIMA** 
+* Trained the baseline model and test the model
+* Evaluated the model with **MAPE and RMSE** 
+* For predicting anomaly applied **Deviation Method** and **Seasonal Method**
+* Used Mean of other month for removing the effect of anomaly 
+* Applied **Rolling Forecast** Method for better Prediction
+
+# [Project 7: Autonomous driving with Reinforcement Learning](https://github.com/Robin-das-raam/Reinforcement-Learning-/blob/main/autonomous%20driving.ipynb)
+
+## Project Overview
+Train a reinforcement learning agent to drive a race car on Car racing environment with Open AI Gym.
+* used **CarRacing-v0** Box environment
+* applied **PPO** algorithm from Stable_Baseline
+* applied **CNN policy** to create model
+* evaluated the model with **evaluate_policy** 
 
 
 
