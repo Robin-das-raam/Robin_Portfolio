@@ -11,7 +11,7 @@ The data used in this project was collected from  Kaggle Bluebook for Bulldozers
 * Optimized Random Forest Regressor using RandomizedSearchCV and GridSearchCV to reach the best model.
 * Evaluated the model with Root Mean Squared Log Error. 
 * Tried to figure out the most important features.  
-![Important_Features](/images/Impotance Feat.png)
+![Important_Features](/images/impotance Feat.png)
 
 
 # [Project 2: Fraudulent Click Prediction.](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Ensemble/XGBoost.ipynb)
@@ -42,7 +42,7 @@ Used the online reatil trasnational dataset to build a RFM clustering and choose
 * evaluate the model with Silhouette Analysis 
 ![Kmeans clusters image](/images/kmean.png)
 
-![Boxplot](/images/kmeans_boxplot.png)
+![Boxplot](/images/Kmeans_boxplot.png)
 
 
 # [Project 4: Automate Nucleus Detection Using U_NET image Segmentation](https://github.com/Robin-das-raam/Deep-Learning/blob/main/FInding%20Nucleus%20using%20U_Net.ipynb)
