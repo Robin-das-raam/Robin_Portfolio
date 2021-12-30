@@ -1,7 +1,3 @@
-# Robin_Portfolio
-Machine Learning Engineer Portfolio
-
-
 
 # [Project 1: Predicting the Auction Sale Price of Bulldozers using Machine Learning.](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/tree/main/Kaggle_Projects)
 ## Project Overview
@@ -49,18 +45,28 @@ Used the online reatil trasnational dataset to build a RFM clustering and choose
 ![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmeans_boxplot.png)
 
 
-# [Project 4: Workout estimation and reps Counting.](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Workout%20estimation%20and%20reps%20Counter)
+# [Project 4: Automate Nucleus Detection Using U_NET image Segmentation](https://github.com/Robin-das-raam/Deep-Learning/blob/main/FInding%20Nucleus%20using%20U_Net.ipynb)
+## Project Overview:
+This project was **Kaggle** Data Science Bowl 2018 Challenge with a Heading of **Spot Nuclei Speed Cure**.The project goal is to find Nuclei for helping the cureing process and it faster..
+**Objective** - Automate the generation of the image masks
+**Approach** - Used **U_NET CNN** for segmentation task to generate these mask with **Tensorflow**
+* Preprocessed the image data for creating image mask of dimension 128x128
+* Used **IOU** metric for evaluation
+* Optimized **U_NET** with **CallBacks** function to reach the best model.
+
+
+# [Project 5: Workout estimation and reps Counting using OpenCV.](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Workout%20estimation%20and%20reps%20Counter)
 ## Project Overview:
 ### The goal of this project is to track various gym workout position and count the reputation of perfectly done exercise. If the exercise not done properly then it will be not counted..
 
-* This project is based on Python and OpenCV
+* This project is based on **Python** and **OpenCV**
 * created a PoseDetector Module using MediaPipe
 * PoseDetector module can find pose and draw line on pose landmarks
 * PoseDetector module has a function to calculate the angle between defined pose landmarks
 * each kind of exercise have a predefined angle between pose landmarks for counting as perfect reputation 
 
 
-# [Project 5: Virtual Painter](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Virtual%20Painter)
+# [Project 6: Virtual Painter](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Virtual%20Painter)
 
 ## Project Overview:
 In this project build an application for drawing on screen using real time video using python and OpenCV.
@@ -70,7 +76,7 @@ In this project build an application for drawing on screen using real time video
 * used two fingers to select the color and eraser
 * used one fingers to draw on screen 
 
-# [Project 6: Anomaly Detection in Time Series Data.](https://github.com/Robin-das-raam/Time-Series-Analysis-/blob/main/Anomaly%20Detection%20in%20Time%20Series.ipynb)
+# [Project 7: Anomaly Detection in Time Series Data.](https://github.com/Robin-das-raam/Time-Series-Analysis-/blob/main/Anomaly%20Detection%20in%20Time%20Series.ipynb)
 
 ## Project Overview
 The goal of this project is to detect anomaly in time Series data.In this project i used Catfish Sales dataset which provides the sales from 1996 to 2000.
@@ -84,7 +90,7 @@ The goal of this project is to detect anomaly in time Series data.In this projec
 * Used Mean of other month for removing the effect of anomaly 
 * Applied **Rolling Forecast** Method for better Prediction
 
-# [Project 7: Autonomous driving with Reinforcement Learning](https://github.com/Robin-das-raam/Reinforcement-Learning-/blob/main/autonomous%20driving.ipynb)
+# [Project 8: Autonomous driving with Reinforcement Learning](https://github.com/Robin-das-raam/Reinforcement-Learning-/blob/main/autonomous%20driving.ipynb)
 
 ## Project Overview
 Train a reinforcement learning agent to drive a race car on Car racing environment with Open AI Gym.
@@ -92,6 +98,7 @@ Train a reinforcement learning agent to drive a race car on Car racing environme
 * applied **PPO** algorithm from Stable_Baseline
 * applied **CNN policy** to create model
 * evaluated the model with **evaluate_policy** 
+
 
 
 
