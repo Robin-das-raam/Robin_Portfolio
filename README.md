@@ -40,9 +40,9 @@ Used the online reatil trasnational dataset to build a RFM clustering and choose
 * for checking the tendency of clusters used Hopkins Stat function
 * applied K Means algorithm
 * evaluate the model with Silhouette Analysis 
-![Kmeans clusters image](kmean.png)
+![Kmeans clusters image](/images/kmean.png)
 
-![](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Unsupervised%20Learning/KMeans/kmeans_boxplot.png)
+![Boxplot](/images/kmeans_boxplot.png)
 
 
 # [Project 4: Automate Nucleus Detection Using U_NET image Segmentation](https://github.com/Robin-das-raam/Deep-Learning/blob/main/FInding%20Nucleus%20using%20U_Net.ipynb)
@@ -53,6 +53,8 @@ This project was **Kaggle** Data Science Bowl 2018 Challenge with a Heading of *
 * Preprocessed the image data for creating image mask of dimension 128x128
 * Used **IOU** metric for evaluation
 * Optimized **U_NET** with **CallBacks** function to reach the best model.
+![predicted maskson training data](/images/U_net2.png)
+![predicted mask on validation data](/images/U_net.png)
 
 
 # [Project 5: Workout estimation and reps Counting using OpenCV.](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Workout%20estimation%20and%20reps%20Counter)
@@ -89,6 +91,8 @@ The goal of this project is to detect anomaly in time Series data.In this projec
 * For predicting anomaly applied **Deviation Method** and **Seasonal Method**
 * Used Mean of other month for removing the effect of anomaly 
 * Applied **Rolling Forecast** Method for better Prediction
+![time series](/images/time_series.png)
+![time_series](/images/time_series2.png)
 
 # [Project 8: Autonomous driving with Reinforcement Learning](https://github.com/Robin-das-raam/Reinforcement-Learning-/blob/main/autonomous%20driving.ipynb)
 
