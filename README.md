@@ -11,7 +11,7 @@ The data used in this project was collected from  Kaggle Bluebook for Bulldozers
 * Optimized Random Forest Regressor using RandomizedSearchCV and GridSearchCV to reach the best model.
 * Evaluated the model with Root Mean Squared Log Error. 
 * Tried to figure out the most important features.  
-![Important_Features](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Kaggle_Projects/Impotance%20Feat.png)
+![Important_Features](/images/Impotance Feat.png)
 
 
 # [Project 2: Fraudulent Click Prediction.](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/blob/main/Ensemble/XGBoost.ipynb)
@@ -27,7 +27,7 @@ In this project i applied **XGBOOST** boosting algorithm to solve this interesti
 * Optimized XGBoost classifier using GridSearchCV to reach the best model.
 * Evaluated the model with classification report ,confusion matrix ,roc_auc_score and roc_curve. 
 * Tried to figure out the most important features. 
-
+![xgboost](/images/xgboost.png)
 
 # [Project 3: Build a RFM clustering and choose the best set of customers for online retail shop](https://github.com/Robin-das-raam/Machine-Learning-Algorithm/tree/main/Unsupervised%20Learning/KMeans)
 ## Project Overview
@@ -66,7 +66,7 @@ This project was **Kaggle** Data Science Bowl 2018 Challenge with a Heading of *
 * PoseDetector module can find pose and draw line on pose landmarks
 * PoseDetector module has a function to calculate the angle between defined pose landmarks
 * each kind of exercise have a predefined angle between pose landmarks for counting as perfect reputation 
-
+![gym0](/images/gym0.png)
 
 # [Project 6: Virtual Painter](https://github.com/Robin-das-raam/Computer-Vision-OpenCV/tree/main/Virtual%20Painter)
 
@@ -77,6 +77,7 @@ In this project build an application for drawing on screen using real time video
 * draw landmarks 
 * used two fingers to select the color and eraser
 * used one fingers to draw on screen 
+![drawing](/images/drawing1.png)
 
 # [Project 7: Anomaly Detection in Time Series Data.](https://github.com/Robin-das-raam/Time-Series-Analysis-/blob/main/Anomaly%20Detection%20in%20Time%20Series.ipynb)
 
@@ -102,6 +103,7 @@ Train a reinforcement learning agent to drive a race car on Car racing environme
 * applied **PPO** algorithm from Stable_Baseline
 * applied **CNN policy** to create model
 * evaluated the model with **evaluate_policy** 
+![RL](/images/rl2.png)
 
 
 
